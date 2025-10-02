@@ -4,11 +4,11 @@ This project is a complete end-to-end MLOps demonstration. It involves training 
 
 This project utilizes a modern MLOps stack for development and deployment:
 
-* [cite_start]*Model Training & Experimentation*: scikit-learn [cite: 1][cite_start], pandas [cite: 1][cite_start], numpy [cite: 1]
-* [cite_start]*Data & Pipeline Versioning*: dvc [cite: 1]
-* [cite_start]*Web Framework for API*: fastapi [cite: 1]
-* [cite_start]*Asynchronous Server*: uvicorn [cite: 1]
-* [cite_start]*Environment Management*: python-dotenv [cite: 1]
+*Model Training & Experimentation*: scikit-learn, pandas, numpy.
+*Data & Pipeline Versioning*: dvc.
+*Web Framework for API*: fastapi.
+*Asynchronous Server*: uvicorn.
+*Environment Management*: python-dotenv.
 
 ## Project Architecture
 
